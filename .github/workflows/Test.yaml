@@ -20,4 +20,5 @@ jobs:
 
 
       - name: List GCS buckets
-        run: gcloud artifacts repositories list --project=341213114487
+        run: gcloud artifacts repositories list --project=forward-garden-444210-d7
+
