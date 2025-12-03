@@ -20,4 +20,4 @@ jobs:
 
 
       - name: List GCS buckets
-        run: gcloud storage buckets list
+        run: gcloud artifacts repositories list --project=341213114487
